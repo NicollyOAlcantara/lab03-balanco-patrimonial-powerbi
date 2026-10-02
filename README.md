@@ -10,9 +10,8 @@ Praticar a construção de um dashboard financeiro no Power BI utilizando uma ma
 
 ##  Dashboard
 
-![Lab 03 - Balanço Patrimonial](Lab%2003%20-%20Balan%C3%A7o%20Patrimonialcom%20Visual%20de%20Matriz.pdf)
+![Lab 03 - Balanço Patrimonial](lab-03-balanco-patrimonial.png))
 
-> **Observação:** a imagem do dashboard deve ser adicionada ao repositório em formato `.png` ou `.jpg` para aparecer corretamente nesta seção.
 
 O dashboard apresenta:
 
