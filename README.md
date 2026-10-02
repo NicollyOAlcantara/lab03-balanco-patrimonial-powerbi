@@ -10,7 +10,7 @@ Praticar a construção de um dashboard financeiro no Power BI utilizando uma ma
 
 ##  Dashboard
 
-![Lab 03 - Balanço Patrimonial](lab-03-balanco-patrimonial.jpg))
+![Lab 03 - Balanço Patrimonial](lab-03-balanco-patrimonial.jpg)
 
 
 O dashboard apresenta:
@@ -48,7 +48,7 @@ Além da matriz proposta no laboratório, foram incluídos:
 * Organização visual do dashboard;
 * Destaque para indicadores de Ativo Total, Passivo + PL e Patrimônio Líquido.
 
-## 👩 Autora
+##  Autora
 
 **Nicolly Alcântara**
 
